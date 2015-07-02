@@ -1,0 +1,14 @@
+.circle { 
+    -fx-fill: red;
+    -fx-stroke: slategrey;
+    -fx-stroke-width: 2;   
+    -fx-stroke-dash-offset: 6;
+    -fx-stroke-line-cap: butt;
+    -fx-border-radius: 3;
+}
+
+.button {
+    -fx-font: 17 arial; 
+    -fx-base: #b6e7c9;   
+}
+
